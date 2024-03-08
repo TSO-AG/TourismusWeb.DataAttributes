@@ -13,7 +13,7 @@ Ein touristisches Ziel. Im Prinzip kann jeder Ort ein touristisches Ziel sein, v
 
 ## Data / API
 
-* [JSON-LD](api/types/TouristDestination/index.jsonld)
+* [JSON-LD](/api/types/TouristDestination/index.jsonld)
 
 
 ### Examples
