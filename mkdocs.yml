@@ -2,7 +2,7 @@
 site_name: TourismusWeb.DataAttributes 
 site_url: https://tso-ag.github.io/TourismusWeb.DataAttributes/
 site_author: TSO AG
-site_description: TourismusWeb.DataAttributes
+site_description: TourismusWeb DataAttributes
 
 # Repository
 repo_name: TSO-AG/TourismusWeb.DataAttributes
@@ -49,15 +49,15 @@ markdown_extensions:
 
 extra:
   alternate:
+    - name: English
+      link: /en/
+      lang: en
     - name: Deutsch
       link: /de/
       lang: de
-    - name: English
-      link: / 
-      lang: en
 
 plugins:
-  #- blog
+  - blog
   - search
   - i18n:
       docs_structure: folder
@@ -72,6 +72,6 @@ plugins:
 # Page Tree
 nav:
   - Home: index.md
-  - Getting started: getting-started.md
-  #- Blog: blog/index.md
+  #- Getting started: getting-started.md
+  - Blog: blog/index.md
 
