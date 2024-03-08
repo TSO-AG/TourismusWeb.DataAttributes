@@ -30,7 +30,7 @@ Ist die Basis für das JSON-LD
         "@type": "ImageObject",
         "name": "SVG OK:Go",
         "author": "TSO AG",
-        "contentUrl": "/assets/images/Award/okgo.svg",
+        "contentUrl": "/assets/images/award/okgo.svg",
         "description": "Auszeichnung von OK:GO als SVG",
         "license": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
