@@ -40,4 +40,3 @@ Ist die Basis für das JSON-LD
 ## Verwendete Typen
 
 * https://schema.org/ImageObject
-* 
