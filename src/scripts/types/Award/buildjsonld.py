@@ -43,7 +43,7 @@ def main():
     print(json_objects)
 
     data = []
-    url = "https://opendatatourism.ch"
+    url = "https://tso-ag.github.io/TourismusWeb.DataAttributes"
     for json_object in json_objects:
         if json_object.strip():  # Ignoriert leere Zeilen
             # Add to array
