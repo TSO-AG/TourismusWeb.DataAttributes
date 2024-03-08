@@ -1,12 +1,12 @@
 # Project information
-site_name: Open Data Tourism
-site_url: opendatatourism.ch
-site_author: Open Data Tourism
-site_description: Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden.
+site_name: TourismusWeb.DataAttributes 
+#site_url: TourismusWeb.DataAttributes 
+site_author: TSO AG
+site_description: TourismusWeb.DataAttributes
 
 # Repository
-repo_name: opendatatourism-ch/opendatatourism.ch
-repo_url: https://github.com/opendatatourism-ch/opendatatourism.ch
+repo_name: TSO-AG/TourismusWeb.DataAttributes
+repo_url: https://github.com/TSO-AG/TourismusWeb.DataAttributes
 
 theme:
   name: material
@@ -57,7 +57,7 @@ extra:
       lang: en
 
 plugins:
-  - blog
+  #- blog
   - search
   - i18n:
       docs_structure: folder
@@ -73,5 +73,5 @@ plugins:
 nav:
   - Home: index.md
   - Getting started: getting-started.md
-  - Blog: blog/index.md
+  #- Blog: blog/index.md
 
