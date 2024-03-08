@@ -69,9 +69,6 @@ plugins:
           default: true
           name: Deutsch
           build: true
-# Page Tree
-nav:
-  - Home: index.md
-  #- Getting started: getting-started.md
-  - Blog: blog/index.md
+
+
 
