@@ -4,7 +4,9 @@ permalink: /docs/types/OpeningHoursSpecification
 ---
 # OpeningHoursSpecification - Öffnungszeiten
 
-https://schema.org/OpeningHoursSpecification
+
+[schema.org/OpeningHoursSpecification](https://schema.org/OpeningHoursSpecification).
+[docs.discover.swiss - OpeningHoursSpecification](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/OpeningHoursSpecification/)
 
 
 ## Examples
