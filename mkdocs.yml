@@ -1,0 +1,77 @@
+# Project information
+site_name: Open Data Tourism
+site_url: opendatatourism.ch
+site_author: Open Data Tourism
+site_description: Gemeinsam an offen Daten für den Tourismus arbeiten, zur Verfügungstellen und ohne Einschränkunen weiterverwenden.
+
+# Repository
+repo_name: opendatatourism-ch/opendatatourism.ch
+repo_url: https://github.com/opendatatourism-ch/opendatatourism.ch
+
+theme:
+  name: material
+  language: de
+  theme:
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.
+    - search.share
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  alternate:
+    - name: Deutsch
+      link: /de/
+      lang: de
+    - name: English
+      link: / 
+      lang: en
+
+plugins:
+  - blog
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: de
+          default: true
+          name: Deutsch
+          build: true
+# Page Tree
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Blog: blog/index.md
+
