@@ -15,8 +15,8 @@ Ist die Basis für das JSON-LD
 
 ## Data / API
 
-* [JSON-LD](/api/types/Award/index.jsonld)
-* [CSV](/api/types/Award/index.csv) (ToDO)
+* [JSON-LD](api/types/Award/index.jsonld)
+* [CSV](api/types/Award/index.csv) (ToDO)
 
 ### Examples
 ```json

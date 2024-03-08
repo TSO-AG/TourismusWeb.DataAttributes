@@ -11,6 +11,11 @@ Ein touristisches Ziel. Im Prinzip kann jeder Ort ein touristisches Ziel sein, v
 
 * Schweiz Tourismus - https://developer.myswitzerland.io/apis/arfixdyt48/v1
 
+## Data / API
+
+* [JSON-LD](api/types/TouristDestination/index.jsonld)
+
+
 ### Examples
 ```json
 {
