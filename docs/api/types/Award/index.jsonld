@@ -521,19 +521,6 @@
     },
     {
         "@type": "Award",
-        "identifier": "gaultMillau12",
-        "dateCreated": "2024-02-09",
-        "dateModified": "2024-02-09",
-        "name": "Gault Millau 12 Punkte",
-        "logo": {
-            "@type": "ImageObject",
-            "author": "TSO AG",
-            "contentUrl": "https://tso-ag.github.io/TourismusWeb.DataAttributes/assets/images/Award/gaultMillau12.svg",
-            "license": "https://creativecommons.org/publicdomain/zero/1.0/"
-        }
-    },
-    {
-        "@type": "Award",
         "identifier": "gaultMillau13",
         "dateCreated": "2024-02-09",
         "dateModified": "2024-02-09",
