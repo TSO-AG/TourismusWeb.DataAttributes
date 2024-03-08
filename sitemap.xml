@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/blog/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/blog/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/schemaorg/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/schemaorg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/schemaorg/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Award/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Award/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Award/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/LocationFeatureSpecification/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/LocationFeatureSpecification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/LocationFeatureSpecification/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/OpeningHoursSpecification/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/OpeningHoursSpecification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/OpeningHoursSpecification/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Place/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Place/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Place/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Resort/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Resort/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Resort/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/types/TouristDestination/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/TouristDestination/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/TouristDestination/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/blog/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/blog/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/blog/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/schemaorg/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/schemaorg/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/schemaorg/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Award/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Award/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Award/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/LocationFeatureSpecification/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/LocationFeatureSpecification/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/LocationFeatureSpecification/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/OpeningHoursSpecification/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/OpeningHoursSpecification/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/OpeningHoursSpecification/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Place/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Place/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Place/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Resort/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/Resort/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/Resort/"/>
+    </url>
+    <url>
+        <loc>https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/TouristDestination/</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/en/types/TouristDestination/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://tso-ag.github.io/TourismusWeb.DataAttributes/types/TouristDestination/"/>
+    </url>
+</urlset>
