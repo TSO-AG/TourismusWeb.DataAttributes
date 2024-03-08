@@ -5,6 +5,7 @@ permalink: /docs/types/LocationFeatureSpecification
 # LocationFeatureSpecification - Ausstattungen
 
 [schema.org/LocationFeatureSpecification](https://schema.org/LocationFeatureSpecification).
+
 [docs.discover.swiss - LocationFeatureSpecification](https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/LocationFeatureSpecification/)
 
 ## Datentabelle der Auszeichnungen
